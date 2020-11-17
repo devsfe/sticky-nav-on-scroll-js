@@ -39,8 +39,7 @@ body {
 }
 
 .nav__logo {
-    font-size: 1.125rem;
-    font-weight: 200;
+    font-size: 1.25rem;
     text-transform: uppercase;
     color: var(--main-color);
 }
@@ -80,7 +79,7 @@ body {
     display: none;
     color: var(--main-color);
     cursor: pointer;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 /* === Sec-2 === */
